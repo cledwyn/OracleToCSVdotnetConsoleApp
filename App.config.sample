@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="adv" value="Data Source=TheSIDOfYourDB;Persist Security Info=True;User ID=scott;Password=tiger"/>
+  </appSettings>
+</configuration>
